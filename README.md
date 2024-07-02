@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://github.com/hufei365/hufei365/blob/main/icons/hi.gif" width="28px"/>👋, I'm HuFei</h1>
 
-<!--
-**hufei365/hufei365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨I am a passionate software developer with experience in X✨.
+
+## 技能
+
+- **💻Language**: JavaScript, Rust, Python
+- **🏠Frame**: React, Node.js, vue.js
+- **🔭Tool**: Git, Docker, OpenAI
+
+## 联系我
+
+- 📫: [hufeicom@qq.com](mailto:hufeicom@qq.com)
+
+## GitHub 统计
+
+![My GitHub Activities](https://github-readme-stats.vercel.app/api?username=hufei365&show_icons=true&theme=radical)
