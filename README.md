@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/hufei365/hufei365/blob/main/icons/hi.gif" width="28px"/>👋, I'm HuFei</h1>
+<h1 align="center">Hi <img src="https://github.com/hufei365/hufei365/blob/main/icons/hi.gif" width="48px"/>👋, I'm HuFei</h1>
 
 
 ## About Me
